@@ -1,0 +1,8 @@
+/home/marcin/RiderProjects/HelloDotNetCore/HelloDotNetCore/bin/Debug/netcoreapp1.1/HelloDotNetCore.deps.json
+/home/marcin/RiderProjects/HelloDotNetCore/HelloDotNetCore/bin/Debug/netcoreapp1.1/HelloDotNetCore.runtimeconfig.json
+/home/marcin/RiderProjects/HelloDotNetCore/HelloDotNetCore/bin/Debug/netcoreapp1.1/HelloDotNetCore.runtimeconfig.dev.json
+/home/marcin/RiderProjects/HelloDotNetCore/HelloDotNetCore/bin/Debug/netcoreapp1.1/HelloDotNetCore.dll
+/home/marcin/RiderProjects/HelloDotNetCore/HelloDotNetCore/bin/Debug/netcoreapp1.1/obj/Debug/netcoreapp1.1/HelloDotNetCore.pdb
+/home/marcin/RiderProjects/HelloDotNetCore/HelloDotNetCore/obj/Debug/netcoreapp1.1/HelloDotNetCore.AssemblyInfo.cs
+/home/marcin/RiderProjects/HelloDotNetCore/HelloDotNetCore/obj/Debug/netcoreapp1.1/HelloDotNetCore.dll
+/home/marcin/RiderProjects/HelloDotNetCore/HelloDotNetCore/obj/Debug/netcoreapp1.1/HelloDotNetCore.pdb
