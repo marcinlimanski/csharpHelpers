@@ -24,6 +24,7 @@ namespace HelloDotNetCore
             helpers.nullables();
             helpers.array_examples();
             helpers.struct_exmaple();
+            helpers.calcualte_fractorial(7);
         }
     }
 }

@@ -97,5 +97,18 @@ namespace HelloDotNetCore
             
             Console.WriteLine(c_sharp_code_style.style);
         }
+
+        public void calcualte_fractorial(int number)
+        {
+            int sum = 1;
+            
+            for (int counter = 0; counter < number; counter++)
+            {
+                var tempCount = counter + 1;
+                sum = tempCount * sum;
+            }
+
+            Console.WriteLine("Fractorial of {0} is {1}", number, sum);
+        }
     }
 }
