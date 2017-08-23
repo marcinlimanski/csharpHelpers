@@ -110,5 +110,12 @@ namespace HelloDotNetCore
 
             Console.WriteLine("Fractorial of {0} is {1}", number, sum);
         }
+
+        public void ready_file_and_sort(string file_path)
+        {
+            string[] lines = System.IO.File.ReadAllLines(file_path);
+
+            Console.WriteLine(lines[0]);
+        }
     }
 }

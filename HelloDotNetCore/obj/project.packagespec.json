@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/marcin/RiderProjects/HelloDotNetCore/HelloDotNetCore/HelloDotNetCore.csproj",
+    "projectUniqueName": "/home/prolog/git/csharpHelpers/HelloDotNetCore/HelloDotNetCore.csproj",
     "projectName": "HelloDotNetCore",
-    "projectPath": "/home/marcin/RiderProjects/HelloDotNetCore/HelloDotNetCore/HelloDotNetCore.csproj",
-    "outputPath": "/home/marcin/RiderProjects/HelloDotNetCore/HelloDotNetCore/obj/",
+    "projectPath": "/home/prolog/git/csharpHelpers/HelloDotNetCore/HelloDotNetCore.csproj",
+    "outputPath": "/home/prolog/git/csharpHelpers/HelloDotNetCore/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp1.1"

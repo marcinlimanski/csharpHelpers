@@ -25,6 +25,7 @@ namespace HelloDotNetCore
             helpers.array_examples();
             helpers.struct_exmaple();
             helpers.calcualte_fractorial(7);
+            helpers.ready_file_and_sort("ACW2_data.txt");
         }
     }
 }

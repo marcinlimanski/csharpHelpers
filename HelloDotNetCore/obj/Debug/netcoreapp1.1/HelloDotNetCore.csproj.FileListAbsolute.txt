@@ -6,3 +6,12 @@
 /home/marcin/RiderProjects/HelloDotNetCore/HelloDotNetCore/obj/Debug/netcoreapp1.1/HelloDotNetCore.AssemblyInfo.cs
 /home/marcin/RiderProjects/HelloDotNetCore/HelloDotNetCore/obj/Debug/netcoreapp1.1/HelloDotNetCore.dll
 /home/marcin/RiderProjects/HelloDotNetCore/HelloDotNetCore/obj/Debug/netcoreapp1.1/HelloDotNetCore.pdb
+/home/prolog/git/csharpHelpers/HelloDotNetCore/bin/Debug/netcoreapp1.1/HelloDotNetCore.deps.json
+/home/prolog/git/csharpHelpers/HelloDotNetCore/bin/Debug/netcoreapp1.1/HelloDotNetCore.runtimeconfig.json
+/home/prolog/git/csharpHelpers/HelloDotNetCore/bin/Debug/netcoreapp1.1/HelloDotNetCore.runtimeconfig.dev.json
+/home/prolog/git/csharpHelpers/HelloDotNetCore/bin/Debug/netcoreapp1.1/HelloDotNetCore.dll
+/home/prolog/git/csharpHelpers/HelloDotNetCore/bin/Debug/netcoreapp1.1/HelloDotNetCore.pdb
+/home/prolog/git/csharpHelpers/HelloDotNetCore/obj/Debug/netcoreapp1.1/HelloDotNetCore.AssemblyInfo.cs
+/home/prolog/git/csharpHelpers/HelloDotNetCore/obj/Debug/netcoreapp1.1/HelloDotNetCore.dll
+/home/prolog/git/csharpHelpers/HelloDotNetCore/obj/Debug/netcoreapp1.1/HelloDotNetCore.pdb
+/home/prolog/git/csharpHelpers/HelloDotNetCore/obj/Debug/netcoreapp1.1/HelloDotNetCore.csprojResolveAssemblyReference.cache
