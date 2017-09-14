@@ -116,6 +116,8 @@ namespace HelloDotNetCore
             string[] lines = System.IO.File.ReadAllLines(file_path);
 
             Console.WriteLine(lines[0]);
+            
+            
         }
     }
 }
